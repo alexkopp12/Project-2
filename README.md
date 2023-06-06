@@ -1,4 +1,4 @@
-# Project-2
+# Project 2: Crowdfunding
 
 
 ## Project Participants
