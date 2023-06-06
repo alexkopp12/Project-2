@@ -53,8 +53,8 @@ Export the campaign DataFrame as campaign.csv and save it to your GitHub reposit
 ### Create the Contacts DataFrame
 Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
 
-*Option 1: Use Python dictionary methods.
-*Option 2: Use regular expressions.
+* Option 1: Use Python dictionary methods.
+* Option 2: Use regular expressions.
 
 If you chose Option 1, complete the following steps:
 
