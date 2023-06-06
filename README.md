@@ -1,13 +1,15 @@
 # Project-2
 
-## Instructions
-The instructions for this mini project are divided into the following subsections:
 
-Create the Category and Subcategory DataFrames
-Create the Campaign DataFrame
-Create the Contacts DataFrame
-Create the Crowdfunding Database
-Create the Category and Subcategory DataFrames
+## Project Participants
+* Savannah Porter
+
+
+
+## Instructions
+Goals:
+
+### Create the Category and Subcategory DataFrames
 Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 
 * A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
@@ -26,7 +28,7 @@ Extract and transform the crowdfunding.xlsx Excel data to create a subcategory D
 
 Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
-Create the Campaign DataFrame
+### Create the Campaign DataFrame
 Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame has the following columns:
 
 * The "cf_id" column
