@@ -5,6 +5,7 @@
 * Savannah Porter
 * Andrew Skorupa
 * Mohamed Abou elkhier
+* Alex Kopp
 
 
 ## Task Leads:
