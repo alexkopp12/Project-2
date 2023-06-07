@@ -14,7 +14,7 @@
 4.
 
 
-## Goals
+## Goals/ Tasks
 
 ### 1. Create the Category and Subcategory DataFrames
 Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
