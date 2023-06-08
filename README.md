@@ -9,10 +9,10 @@
 
 
 ## Task Leads:
-1.
-2.
-3.
-4.
+1. Savannah
+2. Alex
+3. Andrew
+4. Mohamed
 
 
 ## Goals/ Tasks
