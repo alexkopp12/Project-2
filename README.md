@@ -3,13 +3,21 @@
 
 ## Project Participants
 * Savannah Porter
+* Andrew Skorupa
+* Mohamed Abou elkhier
+* Alex Kopp
 
 
+## Task Leads:
+1. Savannah
+2. Alex
+3. Andrew
+4. Mohamed
 
-## Instructions
-Goals:
 
-### Create the Category and Subcategory DataFrames
+## Goals/ Tasks
+
+### 1. Create the Category and Subcategory DataFrames
 Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 
 * A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
@@ -29,7 +37,7 @@ Extract and transform the crowdfunding.xlsx Excel data to create a subcategory D
 Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
 
-### Create the Campaign DataFrame
+### 2. Create the Campaign DataFrame
 Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame has the following columns:
 
 * The "cf_id" column
@@ -52,7 +60,7 @@ Extract and transform the crowdfunding.xlsx Excel data to create a campaign Data
 Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 
 
-### Create the Contacts DataFrame
+### 3. Create the Contacts DataFrame
 Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
 
 * Option 1: Use Python dictionary methods.
@@ -80,7 +88,7 @@ Clean and then export the DataFrame as contacts.csv and save it to your GitHub r
 ![image](https://github.com/SavannahWithAnH/Project-2/assets/126124356/a1afc0a5-9770-45bd-a881-ab0e6534fff6)
 
 
-### Create the Crowdfunding Database
+### 4. Create the Crowdfunding Database
 
 * Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
 * Use the information from the ERD to create a table schema for each CSV file.
