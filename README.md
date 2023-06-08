@@ -9,10 +9,10 @@
 
 
 ## Task Leads:
-1. Savannah
-2. Alex
-3. Andrew
-4. Mohamed
+1. Savannah Porter
+2. Alex Kopp
+3. Andrew Skorupa
+4. Mo Abouelkhier
 
 
 ## Goals/ Tasks
